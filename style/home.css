@@ -23,6 +23,7 @@
 .logo img {
     width: 90px;
     cursor: pointer;
+    display: cover;
 }
 
 .menu {
@@ -142,19 +143,7 @@
 	animation-delay: 0s;
 }
 
-.container_menu button {
-    width: 50px;
-    cursor: pointer;
-    padding: 0;
-    margin-top: 20px;
-    margin-left: 10px;
-    background-color: #12bfc5;
-    color: #fff;  
-}
 
-li {
-    color: #fff;
-    cursor: pointer;
-    padding: 10px;
-}
+
+
 
