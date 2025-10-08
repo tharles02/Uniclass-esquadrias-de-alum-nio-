@@ -95,3 +95,11 @@ h3 {
         padding: 3rem 2rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .container_contato {
+        grid-template-columns: repeat(1, 1fr);
+        padding: 3rem 2rem;
+        display: grid;
+    }
+}
