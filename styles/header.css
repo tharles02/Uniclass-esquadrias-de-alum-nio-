@@ -161,6 +161,27 @@ header {
         padding-left: 1rem;
     }
 
+    #menu {
+        flex-direction: column;
+        color: var(--color-neutral-40);
+        list-style-type: none;
+        width: 100%;
+        padding: 1rem;
+    }
+
+    #menu li{
+        padding: .2rem;
+        width: 100%;
+        text-align: center;
+        margin-bottom: .8rem;
+        text-transform: capitalize;
+        border-bottom: 2px solid #000000;
+        border-radius: 15px;
+        border-bottom: 2px solid #12bfc5;
+        transform: scale(0) translateY(1);
+    }
+
+    
 }
 
 
