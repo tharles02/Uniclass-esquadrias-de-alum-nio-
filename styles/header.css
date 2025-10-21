@@ -37,6 +37,7 @@ header {
 .menu {
     width: 50%;
     height: 100%;
+    text-transform: capitalize;
     
 }
 
